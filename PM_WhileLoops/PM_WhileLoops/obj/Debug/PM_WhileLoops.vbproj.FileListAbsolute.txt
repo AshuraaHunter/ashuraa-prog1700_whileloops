@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_WhileLoops\PM_WhileLoops\bin\Debug\PM_WhileLoops.exe.config
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_WhileLoops\PM_WhileLoops\bin\Debug\PM_WhileLoops.exe
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_WhileLoops\PM_WhileLoops\bin\Debug\PM_WhileLoops.pdb
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_WhileLoops\PM_WhileLoops\bin\Debug\PM_WhileLoops.xml
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_WhileLoops\PM_WhileLoops\obj\Debug\PM_WhileLoops.vbprojAssemblyReference.cache
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_WhileLoops\PM_WhileLoops\obj\Debug\PM_WhileLoops.Resources.resources
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_WhileLoops\PM_WhileLoops\obj\Debug\PM_WhileLoops.vbproj.GenerateResource.cache
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_WhileLoops\PM_WhileLoops\obj\Debug\PM_WhileLoops.vbproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_WhileLoops\PM_WhileLoops\obj\Debug\PM_WhileLoops.exe
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_WhileLoops\PM_WhileLoops\obj\Debug\PM_WhileLoops.xml
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_WhileLoops\PM_WhileLoops\obj\Debug\PM_WhileLoops.pdb
